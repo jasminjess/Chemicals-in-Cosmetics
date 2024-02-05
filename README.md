@@ -1,6 +1,6 @@
 This dataset contains information on chemicals used in cosmetics, including the name of the chemical, the company that uses it, the category of cosmetics it is used in, and the date it was first reported. 
 - Data Source: Downloaded from www.kaggle.com
-- Project Tool: SQL
+- Project Tool: SQL & Tableau
 
 In this project, I used sql to analyze cosmetics data to find out the following:
 
